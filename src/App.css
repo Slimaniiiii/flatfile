@@ -7,6 +7,12 @@
   pointer-events: none;
 }
 
+.flatfile_button{
+  background-color: rgb(30, 30, 79);
+  color: white;
+  border-radius: 5px;
+  padding: 10px;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
